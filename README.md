@@ -31,7 +31,7 @@ The Portfolio is responsive to every screen size.
 ### Description Of Sample Files
 
 1. index.html - main page of website.
-2. style.css - containing style of website.
+2. styles.css - containing style of website.
 3. App.js - written logic to calculate.
 4. README.md - this file.
 
